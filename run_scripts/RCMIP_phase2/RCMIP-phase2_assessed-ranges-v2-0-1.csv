@@ -1,0 +1,34 @@
+RCMIP name,RCMIP variable,RCMIP region,RCMIP scenario,evaluation_period_start,evaluation_period_end,norm_period_start,norm_period_end,very_likely__lower,likely__lower,central,likely__upper,very_likely__upper,unit,RCMIP evaluation method,Source
+Surface Air Ocean Blended Temperature Change World ssp245 2000-2019,Surface Air Ocean Blended Temperature Change,World,ssp245,2000,2019,1961,1990,0.504603951,0.518118605,0.539777134,0.561779422,0.575400447,K,mean,HadCRUT.4.6.0.0
+Equilibrium Climate Sensitivity,Equilibrium Climate Sensitivity,World,abrupt-2xCO2,,,,,,1.8,3.7,5.6,,K,model-reported,"Tokarska et al., 2020"
+Transient Climate Reponse,Surface Air Temperature Change,World,1pctCO2,,,,,,1.3,1.95,3,,K,custom,"Tokarska et al., 2020"
+Transient Climate Reponse to Emissions,"Surface Air Temperature Change,Emissions|CO2",World,1pctCO2,,,,,,0.8,1.65,2.5,,K / TtC,custom,AR5 Synthesis Report Section 2.2.5 (central simply average of likely range)
+Effective Radiative Forcing|Anthropogenic|CH4 World historical-1750,Effective Radiative Forcing|Anthropogenic|CH4,World,historical,2011,2011,1750,1750,,0.4725,0.6,0.7275,,W / m^2,mean,"AR5 WG1 Table 8.SM.6, with extra 25% based on Etminan et al. 2016"
+Effective Radiative Forcing|Anthropogenic|N2O World historical-1750,Effective Radiative Forcing|Anthropogenic|N2O,World,historical,2011,2011,1750,1750,,0.1411,0.17,0.1989,,W / m^2,mean,AR5 WG1 Table 8.SM.6
+Effective Radiative Forcing|Anthropogenic|Montreal Gases World historical-1750,Effective Radiative Forcing|Anthropogenic|Montreal Gases,World,historical,2011,2011,1750,1750,,0.0495,0.33,0.6105,,W / m^2,mean,AR5 WG1 Table 8.SM.6
+Effective Radiative Forcing|Anthropogenic|F-Gases World historical-1750,Effective Radiative Forcing|Anthropogenic|F-Gases,World,historical,2011,2011,1750,1750,,0.027,0.03,0.033,,W / m^2,mean,AR5 WG1 Table 8.SM.6
+Effective Radiative Forcing|Anthropogenic|CO2 World historical-1750,Effective Radiative Forcing|Anthropogenic|CO2,World,historical,2014,2014,1750,1750,,1.69,1.8,1.91,,W / m^2,mean,Table 2 Smith et al. 2020
+Effective Radiative Forcing|Anthropogenic|Aerosols World historical-1750,Effective Radiative Forcing|Anthropogenic|Aerosols,World,historical,2014,2014,1750,1750,,-1.37,-1.01,-0.63,,W / m^2,mean,"Table 2 Smith et al. 2020, using full model range as likely range"
+Radiative Forcing|Anthropogenic|Tropospheric Ozone World historical-1750,Radiative Forcing|Anthropogenic|Tropospheric Ozone,World,historical,2011,2011,1750,1750,,0.2,0.4,0.6,,W / m^2,mean,AR5 WG1 Table 8.6
+Radiative Forcing|Anthropogenic|Stratospheric Ozone World historical-1750,Radiative Forcing|Anthropogenic|Stratospheric Ozone,World,historical,2011,2011,1750,1750,,-0.15,-0.05,0.05,,W / m^2,mean,AR5 WG1 Table 8.6
+Radiative Forcing|Anthropogenic|Other|CH4 Oxidation Stratospheric H2O World historical-1750,Radiative Forcing|Anthropogenic|Other|CH4 Oxidation Stratospheric H2O,World,historical,2011,2011,1750,1750,,0.02,0.07,0.12,,W / m^2,mean,AR5 WG1 Table 8.6
+Radiative Forcing|Anthropogenic|Albedo Change World historical-1750,Radiative Forcing|Anthropogenic|Albedo Change,World,historical,2011,2011,1750,1750,,-0.25,-0.15,-0.05,,W / m^2,mean,AR5 WG1 Table 8.6
+Radiative Forcing|Anthropogenic|Other|BC on Snow World historical-1750,Radiative Forcing|Anthropogenic|Other|BC on Snow,World,historical,2011,2011,1750,1750,,0.02,0.04,0.09,,W / m^2,mean,AR5 WG1 Table 8.6
+Increase Atmospheric Concentrations|CO2 World esm-hist-2011,Atmospheric Concentrations|CO2,World,esm-hist,2011,2011,1750,1750,,108.490566,113.2075472,117.9245283,,ppm,mean,AR5 WG1 Table 6.1
+Rate Increase Atmospheric Concentrations|CO2 World esm-hist-1980,Atmospheric Concentrations|CO2,World,esm-hist,1980,1989,,,,1.509433962,1.603773585,1.698113208,,ppm / yr,regression-slope,AR5 WG1 Table 6.1
+Rate Increase Atmospheric Concentrations|CO2 World esm-hist-1990,Atmospheric Concentrations|CO2,World,esm-hist,1990,1999,,,,1.367924528,1.462264151,1.556603774,,ppm / yr,regression-slope,AR5 WG1 Table 6.1
+Rate Increase Atmospheric Concentrations|CO2 World esm-hist-2000,Atmospheric Concentrations|CO2,World,esm-hist,2000,2009,,,,1.79245283,1.886792453,1.981132075,,ppm / yr,regression-slope,AR5 WG1 Table 6.1
+Rate Increase Atmospheric Concentrations|CO2 World esm-hist-2002,Atmospheric Concentrations|CO2,World,esm-hist,2002,2011,,,,1.933962264,2.028301887,2.122641509,,ppm / yr,regression-slope,AR5 WG1 Table 6.1
+Cumulative Net Ocean to Atmosphere Flux|CO2 World esm-hist-2011,Cumulative Net Ocean to Atmosphere Flux|CO2,World,esm-hist,2011,2011,1750,1750,,-185,-155,-125,,PgC,mean,AR5 WG1 Table 6.1
+Net Ocean to Atmosphere Flux|CO2 World esm-hist-1980,Net Ocean to Atmosphere Flux|CO2,World,esm-hist,1980,1989,1750,1750,,-2.7,-2,-1.3,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Ocean to Atmosphere Flux|CO2 World esm-hist-1990,Net Ocean to Atmosphere Flux|CO2,World,esm-hist,1990,1999,1750,1750,,-2.9,-2.2,-1.5,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Ocean to Atmosphere Flux|CO2 World esm-hist-2000,Net Ocean to Atmosphere Flux|CO2,World,esm-hist,2000,2009,1750,1750,,-3,-2.3,-1.6,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Ocean to Atmosphere Flux|CO2 World esm-hist-2002,Net Ocean to Atmosphere Flux|CO2,World,esm-hist,2002,2011,1750,1750,,-3.1,-2.4,-1.7,,PgC / yr,mean,AR5 WG1 Table 6.1
+Cumulative Net Land to Atmosphere Flux|CO2 World esm-hist-2011,Cumulative Net Land to Atmosphere Flux|CO2,World,esm-hist,2011,2011,1750,1750,,-15,30,75,,PgC,mean,AR5 WG1 Table 6.1
+Net Land to Atmosphere Flux|CO2 World esm-hist-1980,Net Land to Atmosphere Flux|CO2,World,esm-hist,1980,1989,1750,1750,,-0.9,-0.1,0.7,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Land to Atmosphere Flux|CO2 World esm-hist-1990,Net Land to Atmosphere Flux|CO2,World,esm-hist,1990,1999,1750,1750,,-2,-1.1,-0.2,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Land to Atmosphere Flux|CO2 World esm-hist-2000,Net Land to Atmosphere Flux|CO2,World,esm-hist,2000,2009,1750,1750,,-2.4,-1.5,-0.6,,PgC / yr,mean,AR5 WG1 Table 6.1
+Net Land to Atmosphere Flux|CO2 World esm-hist-2002,Net Land to Atmosphere Flux|CO2,World,esm-hist,2002,2011,1750,1750,,-2.6,-1.6,-0.6,,PgC / yr,mean,AR5 WG1 Table 6.1
+Atmospheric Lifetime|CH4 World historical-2005,Atmospheric Lifetime|CH4,World,historical,2005,2014,,,,11,12.4,13.8,,yr,mean,AR5 WG1 Section 8.SM.2
+Atmospheric Lifetime|N2O World historical-2005,Atmospheric Lifetime|N2O,World,historical,2005,2014,,,,111,121,131,,yr,mean,AR5 WG1 Section 8.2.3.4
+Heat Content|Ocean World ssp245 1971-2018,Heat Content|Ocean,World,ssp245,2018,2018,1971,1971,,303.6721715,320.6925154,337.7128593,,ZJ,mean,Von Schuckmann et al. 2020
