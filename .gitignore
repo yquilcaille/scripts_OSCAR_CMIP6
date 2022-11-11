@@ -1,0 +1,34 @@
+# not adding OSCAR
+core_fct
+
+# not adding calculations from others
+extra_data/CMIP6_data
+extra_data/constraints
+extra_data/recon.eof1.mon.ascii.dat.gz
+extra_data/gpcp.clim.1979.2008.mon.ascii.dat.gz
+
+# not adding results from former calculations
+masks
+RCMIP_phase2
+tmp_figures
+weights
+figures_OSCAR_and_CMIP6
+
+# not adding here observations?
+observations
+
+# other scripts not to include
+run_scripts/IPCC_stuff
+run_scripts/scripts_CMIP6/_TREATMENT_ocean-properties.py
+run_scripts/scripts_CMIP6/test-OSCARv3-historical.py
+run_scripts/scripts_CMIP6/test-OSCARv3-ssp585.py
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/dico_experiments_MIPs-checkpoint.csv
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/OSCARv3-1pctCO2-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_PLOT_OSCARv3-CMIP6-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_RUN-ALL_OSCARv3-CMIP6-checkpoint.bat
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_RUN-ALL_OSCARv3-CMIP6-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_TREAT-ALL_OSCARv3-CMIP6-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_extract_extra_var-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/_extract_mask-checkpoint.py
+run_scripts/scripts_CMIP6/.ipynb_checkpoints/test-OSCARv3-historical-checkpoint.py

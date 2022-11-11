@@ -1,0 +1,378 @@
+RCMIP name,RCMIP variable,RCMIP region,RCMIP scenario,evaluation_period_start,evaluation_period_end,norm_period_start,norm_period_end,very_likely__lower,likely__lower,central,likely__upper,very_likely__upper,unit,evaluation method,Source
+Compatible Fossil-fuel emissions of CO2 1960-1969,,World,historical,1960,1969,,,,2.8,3,3.2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Compatible Fossil-fuel emissions of CO2 1970-1979,,World,historical,1970,1979,,,,4.5,4.7,4.9,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Compatible Fossil-fuel emissions of CO2 1980-1989,,World,historical,1980,1989,,,,5.2,5.5,5.8,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Compatible Fossil-fuel emissions of CO2 1990-1999,,World,historical,1990,1999,,,,6.1,6.4,6.7,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Compatible Fossil-fuel emissions of CO2 2000-2009,,World,historical,2000,2009,,,,7.4,7.8,8.2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Compatible Fossil-fuel emissions of CO2 2009-2018,,World,ssp245,2009,2018,,,,9,9.5,10,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 1960-1969,,World,historical,1960,1969,,,,0.7,1.4,2.1,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 1970-1979,,World,historical,1970,1979,,,,0.5,1.2,1.9,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 1980-1989,,World,historical,1980,1989,,,,0.5,1.2,1.9,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 1990-1999,,World,historical,1990,1999,,,,0.6,1.3,2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 2000-2009,,World,historical,2000,2009,,,,0.7,1.4,2.1,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Land-use change CO2 emissions 2009-2018,,World,ssp245,2009,2018,,,,0.8,1.5,2.2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 1960-1969,,World,historical,1960,1969,,,,3.8,4.5,5.2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 1970-1979,,World,historical,1970,1979,,,,5.1,5.8,6.5,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 1980-1989,,World,historical,1980,1989,,,,5.9,6.7,7.5,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 1990-1999,,World,historical,1990,1999,,,,6.9,7.7,8.5,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 2000-2009,,World,historical,2000,2009,,,,8.4,9.2,10,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Total CO2 emissions 2009-2018,,World,ssp245,2009,2018,,,,10.2,11,11.8,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 1960-1969,,World,historical,1960,1969,,,,1.73,1.8,1.87,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 1970-1979,,World,historical,1970,1979,,,,2.73,2.8,2.87,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 1980-1989,,World,historical,1980,1989,,,,3.38,3.4,3.2,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 1990-1999,,World,historical,1990,1999,,,,3.08,3.1,3.12,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 2000-2009,,World,historical,2000,2009,,,,3.98,4,4.02,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Growth rate in atmospheric CO2 2009-2018,,World,ssp245,2009,2018,,,,4.88,4.9,4.92,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 1960-1969,,World,historical,1960,1969,,,,0.4,1,1.6,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 1970-1979,,World,historical,1970,1979,,,,0.7,1.3,1.9,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 1980-1989,,World,historical,1980,1989,,,,1.1,1.7,2.3,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 1990-1999,,World,historical,1990,1999,,,,1.4,2,2.6,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 2000-2009,,World,historical,2000,2009,,,,1.6,2.2,2.8,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Ocean sink 2009-2018,,World,ssp245,2009,2018,,,,1.9,2.5,3.1,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 1960-1969,,World,historical,1960,1969,,,,0.9,1.3,1.7,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 1970-1979,,World,historical,1970,1979,,,,1.7,2,2.3,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 1980-1989,,World,historical,1980,1989,,,,1.3,1.8,2.3,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 1990-1999,,World,historical,1990,1999,,,,2,2.4,2.8,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 2000-2009,,World,historical,2000,2009,,,,2.1,2.7,3.3,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Terrestrial sink 2009-2018,,World,ssp245,2009,2018,,,,2.6,3.2,3.8,,PgC / yr,mean,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Fossil-fuel CO2 emissions 1750-2018,,World,ssp245,2018,2018,1750,1750,,420,440,460,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Fossil-fuel CO2 emissions 1850-2014,,World,historical,2014,2014,1850,1850,,380,400,420,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Fossil-fuel CO2 emissions 1959-2018,,World,ssp245,2018,2018,1959,1959,,345,365,385,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Fossil-fuel CO2 emissions 1850-2018,,World,ssp245,2018,2018,1850,1850,,420,440,460,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Fossil-fuel CO2 emissions 1850-2019,,World,ssp245,2019,2019,1850,1850,,430,450,470,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Land-use change CO2 emissions 1750-2018,,World,ssp245,2018,2018,1750,1750,,160,235,310,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Land-use change CO2 emissions 1850-2014,,World,historical,2014,2014,1850,1850,,135,195,255,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Land-use change CO2 emissions 1959-2018,,World,ssp245,2018,2018,1959,1959,,40,80,120,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Land-use change CO2 emissions 1850-2018,,World,ssp245,2018,2018,1850,1850,,145,205,265,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative Land-use change CO2 emissions 1850-2019,,World,ssp245,2019,2019,1850,1850,,145,205,265,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative growth rate in atmospheric CO2 1750-2018,,World,ssp245,2018,2018,1750,1750,,270,275,280,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative growth rate in atmospheric CO2 1850-2014,,World,historical,2014,2014,1850,1850,,230,235,240,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative growth rate in atmospheric CO2 1959-2018,,World,ssp245,2018,2018,1959,1959,,195,200,205,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative growth rate in atmospheric CO2 1850-2018,,World,ssp245,2018,2018,1850,1850,,250,255,260,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative growth rate in atmospheric CO2 1850-2019,,World,ssp245,2019,2019,1850,1850,,255,260,265,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative ocean sink 1750-2018,,World,ssp245,2018,2018,1750,1750,,150,170,190,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative ocean sink 1850-2014,,World,historical,2014,2014,1850,1850,,130,150,170,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative ocean sink 1959-2018,,World,ssp245,2018,2018,1959,1959,,85,105,125,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative ocean sink 1850-2018,,World,ssp245,2018,2018,1850,1850,,140,160,180,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative ocean sink 1850-2019,,World,ssp245,2019,2019,1850,1850,,140,160,180,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative terrestrial sink 1750-2018,,World,ssp245,2018,2018,1750,1750,,170,220,270,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative terrestrial sink 1850-2014,,World,historical,2014,2014,1850,1850,,145,185,225,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative terrestrial sink 1959-2018,,World,ssp245,2018,2018,1959,1959,,105,135,155,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative terrestrial sink 1850-2018,,World,ssp245,2018,2018,1850,1850,,155,195,235,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Cumulative terrestrial sink 1850-2019,,World,ssp245,2019,2019,1850,1850,,160,200,240,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Deduced cumulative net land flux 1750-2018,,World,ssp245,2018,2018,1750,1750,,-35,-5,25,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Deduced cumulative net land flux 1850-2014,,World,historical,2014,2014,1850,1850,,-15,15,45,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Deduced cumulative net land flux 1959-2018,,World,ssp245,2018,2018,1959,1959,,30,60,90,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Deduced cumulative net land flux 1850-2018,,World,ssp245,2018,2018,1850,1850,,-10,20,50,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Deduced cumulative net land flux 1850-2019,,World,ssp245,2019,2019,1850,1850,,0,30,60,,PgC,cumsum,GCP (doi.org/10.5194/essd-11-1783-2019)
+Transient Climate Response to Emissions CMIP6 2xCO2,,World,1pctCO2,1920,1920,1850,1850,,1.58,1.97,2.36,,K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Cumulative diagnosed emissions 1pctCO2 CMIP6,,World,1pctCO2,1990,1990,1850,1850,,2789,3031,3273,,PgC,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Cumulative diagnosed emissions  1pctCO2 CMIP5,,World,1pctCO2,1990,1990,1850,1850,,2633,2927,3221,,PgC,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Transient Climate Response to Emissions CMIP6 4xCO2,,World,1pctCO2,2000,2000,1850,1850,,1.4,1.77,2.07,,K / EgC,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of land gamma_land CMIP6 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,-95.66,-45.07,5.52,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of land beta_land CMIP6 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,0.57,0.97,1.37,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of ocean gamma_ocean CMIP6 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,-22.16,-17.21,-12.26,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of ocean beta_ocean CMIP6 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,0.71,0.78,0.85,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Transient climate linear sensitivity CMIP6 4xCO2,,World,1pctCO2,1990,1990,1850,1850,,0.00445,0.00568,0.00691,,K / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of land gamma_land CMIP6 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,-72.49,-34.1,4.29,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of land beta_land CMIP6 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,0.82,1.22,1.62,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of ocean gamma_ocean CMIP6 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,-11.49,-8.59,-5.69,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of ocean beta_ocean CMIP6 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,0.82,0.91,1,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Transient climate linear sensitivity CMIP6 2xCO2,,World,1pctCO2,1920,1920,1850,1850,,0.00544,0.00701,0.00758,,K / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of land gamma_land CMIP5 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,-96.16,-57.92,-19.68,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of land beta_land CMIP5 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,0.44,0.93,1.42,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of ocean gamma_ocean CMIP5 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,-21.07,-17.29,-13.51,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of ocean beta_ocean CMIP5 4xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1990,1990,1850,1850,,0.75,0.82,0.89,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Transient climate linear sensitivity CMIP5 4xCO2,,World,1pctCO2,1990,1990,1850,1850,,0.00483,0.00558,0.00663,,K / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of land gamma_land CMIP5 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,-62.49,-37.01,-11.52,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of land beta_land CMIP5 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,0.52,1.15,1.78,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-climate feedback of ocean gamma_ocean CMIP5 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,-12.12,-9.42,-6.72,,PgC / K,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Carbon-concentration feedback of ocean beta_ocean CMIP5 2xCO2,,World,"['1pctCO2','1pctCO2-bgc']",1920,1920,1850,1850,,0.88,0.95,1.02,,PgC / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Transient climate linear sensitivity CMIP5 2xCO2,,World,1pctCO2,1920,1920,1850,1850,,0.00572,0.0069,0.00808,,K / ppm,custom,Arora et al  2020 (doi.org/10.5194/bg-17-4173-2020)
+Atmospheric Concentration of CO2 of esm-ssp585 in 2100,,World,esm-ssp585,2100,2100,,,,,1135,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2 of esm-ssp585 in 2300,,World,esm-ssp585,2300,2300,,,,,2162,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp370 in 2100,,World,esm-ssp370,2100,2100,,,,,867,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp370 in 2300,,World,esm-ssp370,2300,2300,,,,,1483,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp460 in 2100,,World,esm-ssp460,2100,2100,,,,,668,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp460 in 2300,,World,esm-ssp460,2300,2300,,,,,769,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp245 in 2100,,World,esm-ssp245,2100,2100,,,,,603,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp245 in 2300,,World,esm-ssp245,2300,2300,,,,,621,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp534-over in 2100,,World,esm-ssp534-over,2100,2100,,,,,497,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp534-over in 2300,,World,esm-ssp534-over,2300,2300,,,,,398,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp434 in 2100,,World,esm-ssp434,2100,2100,,,,,473,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp434 in 2300,,World,esm-ssp434,2300,2300,,,,,392,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp126 in 2100,,World,esm-ssp126,2100,2100,,,,,446,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp126 in 2300,,World,esm-ssp126,2300,2300,,,,,396,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp119 in 2100,,World,esm-ssp119,2100,2100,,,,,394,,,ppm,custom,input4mips
+Atmospheric Concentration of CO2  of esm-ssp119 in 2300,,World,esm-ssp119,2300,2300,,,,,342,,,ppm,custom,input4mips
+"Increase in global mean temperature in ssp585, mid-century (unconstrained)",,World,ssp585,2041,2060,1981,2017,1.14,1.29,1.74,1.94,2.56,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp585, mid-century (constrained)",,World,ssp585,2041,2060,1981,2017,1.01,1.2,1.46,1.72,1.9,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp126, mid-century (unconstrained)",,World,ssp126,2041,2060,1981,2017,0.63,0.75,1.05,1.28,1.64,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp126, mid-century (constrained)",,World,ssp126,2041,2060,1981,2017,1.01,0.52,0.68,1.1,1.26,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp585, end-century (unconstrained)",,World,ssp585,2081,2100,1981,2017,2.67,3.09,4.01,4.86,5.82,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp585, end-century (constrained)",,World,ssp585,2081,2100,1981,2017,2.26,2.76,3.44,4.11,4.6,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp126, end-century (unconstrained)",,World,ssp126,2081,2100,1981,2017,0.64,0.75,1.03,1.47,1.83,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp126, end-century (constrained)",,World,ssp126,2081,2100,1981,2017,0.41,0.64,0.94,1.24,1.46,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp370, mid-century (unconstrained)",,World,ssp370,2041,2060,1981,2017,1.03,1.09,1.39,1.56,2.3,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp370, mid-century (constrained)",,World,ssp370,2041,2060,1981,2017,0.82,1,1.25,1.5,1.68,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp245, mid-century (unconstrained)",,World,ssp245,2041,2060,1981,2017,0.84,0.97,1.3,1.5,1.99,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp245, mid-century (constrained)",,World,ssp245,2041,2060,1981,2017,0.73,0.89,1.12,1.34,1.5,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp370, end-century (unconstrained)",,World,ssp370,2081,2100,1981,2017,2.2,2.45,3,3.68,4.83,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp370, end-century (constrained)",,World,ssp370,2081,2100,1981,2017,1.84,2.24,2.78,3.31,3.69,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp245, end-century (unconstrained)",,World,ssp245,2081,2100,1981,2017,1.38,1.56,2.12,2.56,3.18,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+"Increase in global mean temperature in ssp245, end-century (constrained)",,World,ssp245,2081,2100,1981,2017,1.15,1.44,1.84,2.23,2.52,K,mean,Tokarska et al 2020 (DOI: 10.1126/sciadv.aaz9549)
+Cumulative compatible emissions CMIP5 historical-CMIP5,,World,rcp45,2011,2011,1850,1850,,235,350,455,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Cumulative compatible emissions CMIP5 RCP2.6,,World,rcp26,2100,2100,2012,2012,,140,270,410,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Cumulative compatible emissions CMIP5 RCP4.5,,World,rcp45,2100,2100,2012,2012,,595,780,1005,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Cumulative compatible emissions CMIP5 RCP6.0,,World,rcp60,2100,2100,2012,2012,,840,1060,1250,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Cumulative compatible emissions CMIP5 RCP8.5,,World,rcp85,2100,2100,2012,2012,,1415,1685,1910,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Land carbon changes CMIP5 historical-CMIP5,,World,rcp45,2011,2011,1850,1850,,-125,10,160,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Land carbon changes CMIP5 RCP2.6,,World,rcp26,2100,2100,2012,2012,,-50,65,195,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Land carbon changes CMIP5 RCP4.5,,World,rcp45,2100,2100,2012,2012,,55,230,450,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Land carbon changes CMIP5 RCP6.0,,World,rcp60,2100,2100,2012,2012,,-80,200,370,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Land carbon changes CMIP5 RCP8.5,,World,rcp85,2100,2100,2012,2012,,-165,180,500,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Ocean carbon changes CMIP5 historical-CMIP5,,World,rcp45,2011,2011,1850,1850,,110,140,220,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Ocean carbon changes CMIP5 RCP2.6,,World,rcp26,2100,2100,2012,2012,,105,150,185,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Ocean carbon changes CMIP5 RCP4.5,,World,rcp45,2100,2100,2012,2012,,185,250,400,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Ocean carbon changes CMIP5 RCP6.0,,World,rcp60,2100,2100,2012,2012,,265,295,335,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Ocean carbon changes CMIP5 RCP8.5,,World,rcp85,2100,2100,2012,2012,,320,400,635,,PgC,cumsum,IPCC AR5 Chapter 6 Table 6.12
+Year of peak in GSAT SSP1-1.9,,World,ssp119,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP1-2.6,,World,ssp126,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP4-3.4,,World,ssp245,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP5-3.4-OS,,World,ssp534-over,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP2-4.5,,World,ssp245,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP4-6.0,,World,ssp460,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP3-7.0,,World,ssp370,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT SSP5-8.5,,World,ssp585,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP1-1.9,,World,ssp119,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP1-2.6,,World,ssp126,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP4-3.4,,World,ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP5-3.4-OS,,World,ssp534-over,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP2-4.5,,World,ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP4-6.0,,World,ssp460,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP3-7.0,,World,ssp370,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF SSP5-8.5,,World,ssp585,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP1-1.9,,World,ssp119,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP1-2.6,,World,ssp126,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP4-3.4,,World,ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP5-3.4-OS,,World,ssp534-over,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP2-4.5,,World,ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP4-6.0,,World,ssp460,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP3-7.0,,World,ssp370,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 SSP5-8.5,,World,ssp585,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP1-1.9,,World,esm-ssp119,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP1-2.6,,World,esm-ssp126,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP4-3.4,,World,esm-ssp245,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP5-3.4-OS,,World,esm-ssp534-over,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP2-4.5,,World,esm-ssp245,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP4-6.0,,World,esm-ssp460,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP3-7.0,,World,esm-ssp370,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in GSAT esm-SSP5-8.5,,World,esm-ssp585,,,1995,2014,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP1-1.9,,World,esm-ssp119,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP1-2.6,,World,esm-ssp126,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP4-3.4,,World,esm-ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP5-3.4-OS,,World,esm-ssp534-over,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP2-4.5,,World,esm-ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP4-6.0,,World,esm-ssp460,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP3-7.0,,World,esm-ssp370,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in ERF esm-SSP5-8.5,,World,esm-ssp585,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP1-1.9,,World,esm-ssp119,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP1-2.6,,World,esm-ssp126,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP4-3.4,,World,esm-ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP5-3.4-OS,,World,esm-ssp534-over,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP2-4.5,,World,esm-ssp245,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP4-6.0,,World,esm-ssp460,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP3-7.0,,World,esm-ssp370,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+Year of peak in atmCO2 esm-SSP5-8.5,,World,esm-ssp585,,,,,,,,,,yr,custom,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp119, 2081-2100 with reference to 1995-2014",,World,ssp119,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp126, 2081-2100 with reference to 1995-2014",,World,ssp126,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp434, 2081-2100 with reference to 1995-2014",,World,ssp434,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp534-over, 2081-2100 with reference to 1995-2014",,World,ssp534-over,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp245, 2081-2100 with reference to 1995-2014",,World,ssp245,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp460, 2081-2100 with reference to 1995-2014",,World,ssp460,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp370, 2081-2100 with reference to 1995-2014",,World,ssp370,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp585, 2081-2100 with reference to 1995-2014",,World,ssp585,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp119, 2081-2100 with reference to 1995-2014",,World,esm-ssp119,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp126, 2081-2100 with reference to 1995-2014",,World,esm-ssp126,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp434, 2081-2100 with reference to 1995-2014",,World,esm-ssp434,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp534-over, 2081-2100 with reference to 1995-2014",,World,esm-ssp534-over,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp245, 2081-2100 with reference to 1995-2014",,World,esm-ssp245,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp460, 2081-2100 with reference to 1995-2014",,World,esm-ssp460,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp370, 2081-2100 with reference to 1995-2014",,World,esm-ssp370,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp585, 2081-2100 with reference to 1995-2014",,World,esm-ssp585,2081,2100,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+Peak in GSAT SSP1-1.9 with reference to 1995-2014,,World,ssp119,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP1-2.6 with reference to 1995-2014,,World,ssp126,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP4-3.4 with reference to 1995-2014,,World,ssp245,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP5-3.4-OS with reference to 1995-2014,,World,ssp534-over,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP2-4.5 with reference to 1995-2014,,World,ssp245,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP4-6.0 with reference to 1995-2014,,World,ssp460,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP3-7.0 with reference to 1995-2014,,World,ssp370,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT SSP5-8.5 with reference to 1995-2014,,World,ssp585,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP1-1.9,,World,ssp119,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP1-2.6,,World,ssp126,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP4-3.4,,World,ssp245,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP5-3.4-OS,,World,ssp534-over,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP2-4.5,,World,ssp245,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP4-6.0,,World,ssp460,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP3-7.0,,World,ssp370,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF SSP5-8.5,,World,ssp585,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP1-1.9 with reference to 1995-2014,,World,esm-ssp119,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP1-2.6 with reference to 1995-2014,,World,esm-ssp126,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP4-3.4 with reference to 1995-2014,,World,esm-ssp245,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP5-3.4-OS with reference to 1995-2014,,World,esm-ssp534-over,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP2-4.5 with reference to 1995-2014,,World,esm-ssp245,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP4-6.0 with reference to 1995-2014,,World,esm-ssp460,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP3-7.0 with reference to 1995-2014,,World,esm-ssp370,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in GSAT esm-SSP5-8.5 with reference to 1995-2014,,World,esm-ssp585,,,1995,2014,,,,,,K,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP1-1.9,,World,esm-ssp119,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP1-2.6,,World,esm-ssp126,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP4-3.4,,World,esm-ssp245,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP5-3.4-OS,,World,esm-ssp534-over,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP2-4.5,,World,esm-ssp245,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP4-6.0,,World,esm-ssp460,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP3-7.0,,World,esm-ssp370,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Peak in ERF esm-SSP5-8.5,,World,esm-ssp585,,,,,,,,,,W / m^2,custom,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-1.9 2100,,World,ssp119,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-2.6 2100,,World,ssp126,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP2-4.5 2100,,World,ssp245,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-3.4-OS 2100,,World,ssp534-over,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP2-4.5 2100,,World,ssp245,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP4-6.0 2100,,World,ssp460,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP3-7.0 2100,,World,ssp370,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-8.5 2100,,World,ssp585,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-1.9 2100,,World,esm-ssp119,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-2.6 2100,,World,esm-ssp126,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-3.4 2100,,World,esm-ssp245,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-3.4-OS 2100,,World,esm-ssp534-over,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP2-4.5 2100,,World,esm-ssp245,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-6.0 2100,,World,esm-ssp460,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP3-7.0 2100,,World,esm-ssp370,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-8.5 2100,,World,esm-ssp585,2100,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-1.9 2081-2100,,World,ssp119,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-2.6 2081-2100,,World,ssp126,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP4-3.4 2081-2100,,World,ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-3.4-OS 2081-2100,,World,ssp534-over,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP2-4.5 2081-2100,,World,ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP4-6.0 2081-2100,,World,ssp460,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP3-7.0 2081-2100,,World,ssp370,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-8.5 2081-2100,,World,ssp585,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-1.9 2081-2100,,World,esm-ssp119,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-2.6 2081-2100,,World,esm-ssp126,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-3.4 2081-2100,,World,esm-ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-3.4-OS 2081-2100,,World,esm-ssp534-over,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP2-4.5 2081-2100,,World,esm-ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-6.0 2081-2100,,World,esm-ssp460,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP3-7.0 2081-2100,,World,esm-ssp370,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-8.5 2081-2100,,World,esm-ssp585,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP1-1.9 2081-2100,,World,ssp119,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP1-2.6 2081-2100,,World,ssp126,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP4-3.4 2081-2100,,World,ssp245,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP5-3.4-OS 2081-2100,,World,ssp534-over,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP2-4.5 2081-2100,,World,ssp245,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP4-6.0 2081-2100,,World,ssp460,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP3-7.0 2081-2100,,World,ssp370,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP5-8.5 2081-2100,,World,ssp585,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP1-1.9 2081-2100,,World,esm-ssp119,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP1-2.6 2081-2100,,World,esm-ssp126,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP4-3.4 2081-2100,,World,esm-ssp245,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP5-3.4-OS 2081-2100,,World,esm-ssp534-over,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP2-4.5 2081-2100,,World,esm-ssp245,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP4-6.0 2081-2100,,World,esm-ssp460,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP3-7.0 2081-2100,,World,esm-ssp370,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP5-8.5 2081-2100,,World,esm-ssp585,2081,2100,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP1-1.9,,World,ssp119,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP1-2.6,,World,ssp126,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP4-3.4,,World,ssp245,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP5-3.4-OS,,World,ssp534-over,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP2-4.5,,World,ssp245,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP4-6.0,,World,ssp460,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP3-7.0,,World,ssp370,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 SSP5-8.5,,World,ssp585,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP1-1.9,,World,esm-ssp119,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP1-2.6,,World,esm-ssp126,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP4-3.4,,World,esm-ssp245,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP5-3.4-OS,,World,esm-ssp534-over,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP2-4.5,,World,esm-ssp245,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP4-6.0,,World,esm-ssp460,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP3-7.0,,World,esm-ssp370,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Peak in atmCO2 esm-SSP5-8.5,,World,esm-ssp585,,,,,,,,,,ppm,custom,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-1.9 2250-2300,,World,ssp119,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP1-2.6 2250-2300,,World,ssp126,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP4-3.4 2250-2300,,World,ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-3.4-OS 2250-2300,,World,ssp534-over,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP2-4.5 2250-2300,,World,ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP4-6.0 2250-2300,,World,ssp460,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP3-7.0 2250-2300,,World,ssp370,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing SSP5-8.5 2250-2300,,World,ssp585,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-1.9 2250-2300,,World,esm-ssp119,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP1-2.6 2250-2300,,World,esm-ssp126,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-3.4 2250-2300,,World,esm-ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-3.4-OS 2250-2300,,World,esm-ssp534-over,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP2-4.5 2250-2300,,World,esm-ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-6.0 2250-2300,,World,esm-ssp460,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP3-7.0 2250-2300,,World,esm-ssp370,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP5-8.5 2250-2300,,World,esm-ssp585,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp119, 2250-2300 with reference to 1995-2014",,World,ssp119,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp126, 2250-2300 with reference to 1995-2014",,World,ssp126,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp434, 2250-2300 with reference to 1995-2014",,World,ssp434,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp534-over, 2250-2300 with reference to 1995-2014",,World,ssp534-over,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp245, 2250-2300 with reference to 1995-2014",,World,ssp245,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp460, 2250-2300 with reference to 1995-2014",,World,ssp460,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp370, 2250-2300 with reference to 1995-2014",,World,ssp370,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in ssp585, 2250-2300 with reference to 1995-2014",,World,ssp585,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp119, 2250-2300 with reference to 1995-2014",,World,esm-ssp119,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp126, 2250-2300 with reference to 1995-2014",,World,esm-ssp126,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp434, 2250-2300 with reference to 1995-2014",,World,esm-ssp434,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp534-over, 2250-2300 with reference to 1995-2014",,World,esm-ssp534-over,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp245, 2250-2300 with reference to 1995-2014",,World,esm-ssp245,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp460, 2250-2300 with reference to 1995-2014",,World,esm-ssp460,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp370, 2250-2300 with reference to 1995-2014",,World,esm-ssp370,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+"Increase in global mean temperature in esm-ssp585, 2250-2300 with reference to 1995-2014",,World,esm-ssp585,2250,2300,1995,2014,,,,,,K,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP1-1.9 2250-2300,,World,ssp119,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP1-2.6 2250-2300,,World,ssp126,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP4-3.4 2250-2300,,World,ssp245,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP5-3.4-OS 2250-2300,,World,ssp534-over,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP2-4.5 2250-2300,,World,ssp245,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP4-6.0 2250-2300,,World,ssp460,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP3-7.0 2250-2300,,World,ssp370,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of SSP5-8.5 2250-2300,,World,ssp585,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP1-1.9 2250-2300,,World,esm-ssp119,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP1-2.6 2250-2300,,World,esm-ssp126,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP4-3.4 2250-2300,,World,esm-ssp245,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP5-3.4-OS 2250-2300,,World,esm-ssp534-over,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP2-4.5 2250-2300,,World,esm-ssp245,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP4-6.0 2250-2300,,World,esm-ssp460,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP3-7.0 2250-2300,,World,esm-ssp370,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Atmospheric Concentration of CO2 of esm-SSP5-8.5 2250-2300,,World,esm-ssp585,2250,2300,,,,,,,,ppm,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP1-1.9 2081-2100,,World,ssp119,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP1-2.6 2081-2100,,World,ssp126,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP4-3.4 2081-2100,,World,ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP5-3.4-OS 2081-2100,,World,ssp534-over,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP2-4.5 2081-2100,,World,ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP4-6.0 2081-2100,,World,ssp460,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP3-7.0 2081-2100,,World,ssp370,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP5-8.5 2081-2100,,World,ssp585,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP1-1.9 2081-2100,,World,esm-ssp119,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP1-2.6 2081-2100,,World,esm-ssp126,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP4-3.4 2081-2100,,World,esm-ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP5-3.4-OS 2081-2100,,World,esm-ssp534-over,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP2-4.5 2081-2100,,World,esm-ssp245,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP4-6.0 2081-2100,,World,esm-ssp460,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP3-7.0 2081-2100,,World,esm-ssp370,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP5-8.5 2081-2100,,World,esm-ssp585,2081,2100,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP1-1.9 2250-2300,,World,ssp119,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP1-2.6 2250-2300,,World,ssp126,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP4-3.4 2250-2300,,World,ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP5-3.4-OS 2250-2300,,World,ssp534-over,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP2-4.5 2250-2300,,World,ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP4-6.0 2250-2300,,World,ssp460,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP3-7.0 2250-2300,,World,ssp370,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols SSP5-8.5 2250-2300,,World,ssp585,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP1-1.9 2250-2300,,World,esm-ssp119,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP1-2.6 2250-2300,,World,esm-ssp126,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing esm-SSP4-3.4 2250-2300,,World,esm-ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP5-3.4-OS 2250-2300,,World,esm-ssp534-over,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP2-4.5 2250-2300,,World,esm-ssp245,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP4-6.0 2250-2300,,World,esm-ssp460,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP3-7.0 2250-2300,,World,esm-ssp370,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
+Effective Radiative Forcing of Aerosols esm-SSP5-8.5 2250-2300,,World,esm-ssp585,2250,2300,1750,1750,,,,,,W/m^2,mean,"WARNING, NO SOURCE"
