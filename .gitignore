@@ -8,11 +8,12 @@ extra_data/recon.eof1.mon.ascii.dat.gz
 extra_data/gpcp.clim.1979.2008.mon.ascii.dat.gz
 
 # not adding results from former calculations
-masks
+masks/figures
+masks/masknoDV*
 RCMIP_phase2
 !run_scripts/RCMIP_phase2
 tmp_figures
-weights
+#weights
 figures_OSCAR_and_CMIP6
 
 # not adding here observations?
